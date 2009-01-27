@@ -10,3 +10,6 @@ configure
 install-sh
 missing
 *~
+font-adobe-utopia-75dpi-*.tar.*
+ChangeLog
+tags
